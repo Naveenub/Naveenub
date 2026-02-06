@@ -45,7 +45,7 @@ This is not a toy fine‑tune. It is a full, end‑to‑end LLM system with trai
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenub&show_icons=true)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naveenub&show_icons=true&theme=default)
 
 ---
 
