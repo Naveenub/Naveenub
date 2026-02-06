@@ -50,5 +50,5 @@ This is not a toy fine‑tune. It is a full, end‑to‑end LLM system with trai
 ---
 
 ## 📫 Reach Me
-- 💼 LinkedIn: https://linkedin.com/in/your-profile
-- 📧 Email: your@email.com
+- 💼 LinkedIn: www.linkedin.com/in/naveen-badiger-6822b221b
+- 📧 Email: badigernaveen2@gmail.com
