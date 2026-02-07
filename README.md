@@ -52,5 +52,6 @@ This is not a toy fine‑tune. It is a full, end‑to‑end LLM system with trai
 ---
 
 ## 📫 Reach Me
+- 🔗 Notion: https://trail-bramble-8d5.notion.site/Naveen-Badiger-DevOps-Cloud-Engineer-300b680e255b80618978c2654214a6c6
 - 💼 LinkedIn: www.linkedin.com/in/naveen-badiger-6822b221b
 - 📧 Email: badigernaveen2@gmail.com
