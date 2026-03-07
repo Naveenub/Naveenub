@@ -173,7 +173,10 @@ Hands-on AWS foundational projects: EC2 Mac instance provisioning and transactio
 <div align="center">
 
 ![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveenub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenub&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Naveenub&theme=tokyonight&hide_border=true)
 
 </div>
 
