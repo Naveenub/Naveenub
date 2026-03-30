@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-badiger-6822b221b)
 [![Portfolio](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white)](https://trail-bramble-8d5.notion.site/Naveen-Badiger-DevOps-Cloud-Engineer-300b680e255b80618978c2654214a6c6)
-[![Email](https://img.shields.io/badge/Email-badigernaveen2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badigernaveen2@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:badigernaveen2@gmail.com)
 
 📍 Bengaluru, Karnataka, India
 
