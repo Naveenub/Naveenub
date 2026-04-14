@@ -64,7 +64,7 @@ Compress-then-encrypt vault purpose-built for LLM training sets. MsgPack + Zstd-
 
 ---
 
-#### 🔸 [NullPhantom](https://github.com/Naveenub/nullphantom) `v0.2.0-alpha`
+#### 🔸 [NullPhantom](https://github.com/Naveenub/null-phantom) `v0.2.0-alpha`
 > **AI/RAG** | Enterprise RAG with Content-Addressable Integrity
 
 Enterprise RAG system with SHA-256 content-addressable snapshot hashing, two-stage retrieval pipeline (BM25 → Claude semantic reranker → SHA-256 integrity gate), phantom detector, and append-only audit log. Grounded retrieval with provable integrity.
