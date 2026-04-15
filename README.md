@@ -104,15 +104,6 @@ Ship production software without writing a single line. Deploys 15 Claude AI age
 
 ---
 
-#### 🔹 [VEGA](https://github.com/Naveenub/vega)
-> **Fintech** | Indian Equity Analysis Tool
-
-React-based NSE/BSE stock analysis app powered by Claude API. Capital-preservation-first mandate, eight-point safety checklist, moat analysis, and thesis-based exit guidance.
-
-`React` `TypeScript` `Claude API` `NSE/BSE`
-
----
-
 #### 🔹 [FaceGuard](https://github.com/Naveenub/faceguard)
 > **Privacy** | Biometric Privacy Shield
 
