@@ -46,6 +46,13 @@ I'm a **DevOps & Cloud Engineer** (~3 years production infra) actively crossing 
 
 ---
 
+#### 🔸 [zkproof-api-main](https://github.com/Naveenub/zkproof-api-main) — *Updated Jul 2026*
+> **ZK Cryptography / SaaS** | Zero-Knowledge Proof Generation API Platform
+
+FastAPI-based ZK proof-as-a-service platform with full Stripe monetization — metered PAYG billing, overage credit packs, multi-seat teams, circuit marketplace with Stripe Connect Express payouts, dunning/retention flows, and referrals. Recently shipped batched on-chain verifier calldata generation (`POST /proofs/verify-onchain/batch`) and a critical proof-verification bug fix.
+
+`Python` `FastAPI` `Stripe` `PostgreSQL` `Redis` `ZK Proofs` `SaaS`
+
 #### 🔸 [zksn](https://github.com/Naveenub/zksn) `v1.2.0-pre` — *Updated Apr 2026*
 > **ZK Cryptography** | Zero-Knowledge Sovereign Network
 
